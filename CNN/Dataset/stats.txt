@@ -1,0 +1,17 @@
+DATASET STATS :- 3473
+# Folder name: ADVE completed. Count: 221
+# Folder name: Email completed. Count: 599
+# Folder name: Form completed. Count: 431
+# Folder name: Letter completed. Count: 567
+# Folder name: Memo completed. Count: 620
+# Folder name: News completed. Count: 188
+# Folder name: Note completed. Count: 201
+# Folder name: Report completed. Count: 265
+# Folder name: Resume completed. Count: 120
+# Folder name: Scientific completed. Count: 261
+
+
+TO RUN :-
+# python3.10 -m  Programs.Dataset_Generator.create_dataset   
+#python3.10 -m  Programs.Feature_Engineering.svm.feature_engineering
+#PS E:\Newgen\NLP> python3.10 -m Programs.vectorization_and_modeling.Logistic_regression.BOW.feature_engineering
