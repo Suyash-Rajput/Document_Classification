@@ -1,0 +1,7 @@
+pip install  os
+pip install pandas
+pip install nltk
+pip install emoji
+pip install tesseract
+pip install sklearn
+pip install tensorflow
