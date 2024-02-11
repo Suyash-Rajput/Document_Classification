@@ -1,0 +1,4 @@
+TO RUN:-
+# python3.10 -m  Programs.Dataset_Generator.create_dataset   
+#python3.10 -m  Programs.Feature_Engineering.svm.feature_engineering
+#PS E:\Newgen\NLP> python3.10 -m Programs.vectorization_and_modeling.Logistic_regression.BOW.feature_engineering
